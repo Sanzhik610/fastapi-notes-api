@@ -33,4 +33,4 @@ I’m passionate about building clean, secure, and efficient APIs using modern P
 	•	📘 Studying 7–8 hours per day to become a professional backend engineer
 	•	🌍 Actively looking for internship opportunities in GERMANY,UK,USA
 
-📫 Reach me on email: orazalysanzhar@gmail.com
+📫 Reach me on Linkedin or email: orazalysanzhar@gmail.com
